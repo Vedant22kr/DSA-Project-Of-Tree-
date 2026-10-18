@@ -7,13 +7,13 @@ A C++ based Binary Search Tree (BST) Height Analysis project that constructs BST
 
 ## 📂 Project Contents
 
-- [Code](src/main.cpp)
-- [Problem Statement](#-problem-statement)
-- [Objectives](#-objectives)
-- [Algorithm](documentation/algorithm.md)
-- [Flowchart](images/flowchart.png)
-- [Output](documentation/samp)
-- [Documentation](documentation/project-report.pdf)
+- [Code](01_Code/)
+- [Problem Statement](02_Problem_Statement/)
+- [Objectives](03_Objectives/)
+- [Algorithm](04_Algorithm/)
+- [Flowchart](05_Flowchart/)
+- [Output](06_Output/)
+- [Documentation](07_Documentation/)
 
 ## 🛠️ Technologies Used
 
